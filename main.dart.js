@@ -79707,7 +79707,7 @@ A.Tz.prototype={}
 A.TM.prototype={}
 A.LW.prototype={
 L(a){var s=null
-return new A.xw(B.Oc,"\u8eca\u6905\u5b50\u30d0\u30b9\u30b1 \u30de\u30cd\u30fc\u30b8\u30e3\u30fc",A.rZ(s,s,B.kf,s),!1,s)}}
+return new A.xw(B.Oc,"\u30c1\u30fc\u30e0\u5206\u3051",A.rZ(s,s,B.kf,s),!1,s)}}
 A.cc.prototype={
 hZ(){return A.ai(["id",this.a,"name",this.b,"points",this.c],t.N,t.z)}}
 A.zV.prototype={
